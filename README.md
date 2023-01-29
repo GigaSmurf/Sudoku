@@ -1,3 +1,3 @@
 # Sudoku
-sudoku game w/ pygame GUI
+sudoku game w/ pygame GUI \
 backtracking algo autosolver 
